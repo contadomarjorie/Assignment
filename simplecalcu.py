@@ -10,19 +10,19 @@ def calcu():
         a = int(input("enter 1st number: "))
         b = int(input("enter 2nd number: "))
         result = a+b
-        print("Result is: ",result)
+        print("Answer: ",result)
 
     elif user == 2:
         a = int(input("enter 1st number: "))
         b = int(input("enter 2nd number; "))
         result = a-b
-        print("Result is: ",result)
+        print("Answer: ",result)
 
     elif user == 3:
         a = int(input("enter 1st number: "))
         b = int(input("enter 2nd number: "))
         result = a*b
-        print("Result is: ",result)
+        print("Answer: ",result)
 
     elif user == 4:
         a = int(input("enter 1st number: "))
